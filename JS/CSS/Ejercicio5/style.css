@@ -1,0 +1,25 @@
+#cabecera {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#cuerpo {
+    background-color: burlywood;
+    color: black;
+    padding: 40px;
+    font-size: 24px;
+    text-align: justify;
+}
+
+#pie {
+    background-color: violet;
+    color: #b4a5a5;
+    text-align: center;
+    padding: 15px;
+    font-size: 15px;
+    text-decoration: overline;
+}
